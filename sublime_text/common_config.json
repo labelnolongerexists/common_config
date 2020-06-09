@@ -1,0 +1,44 @@
+{
+  // 显示迷你地图
+  "always_show_minimap_viewport": true,
+  // 自动完成
+  "auto_complete": false,
+  // 编辑器配色方案
+  "color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+  // 默认结尾结束符
+  "default_line_ending": "unix",
+  // 迷你地图的边框
+  "draw_minimap_border": true,
+  // 字体
+  "font_face": "mononoki",
+  // 字体大小
+  "font_size": 22,
+  // 高亮当前行  
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "place_holder": true,
+  // 尺子
+  "rulers":
+  [
+    80,
+    90,
+    100,
+    110
+  ],
+  // 右下角显示 encoding
+  "show_encoding": true,
+  // tab 大小
+  "tab_size": 2,
+  // tab 自动变成空格
+  "translate_tabs_to_spaces": true,
+  // 树状结构显示动画
+  "tree_animation_enabled": false,
+  // 结尾自动 wrap(软 wrap)
+  "word_wrap": true,
+
+  // This is placeholder to allow lines above could be copied with comma.
+  "Placeholder":""
+}
